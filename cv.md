@@ -7,7 +7,7 @@
 * __GitHub:__ [EvgenyLipayMinsk](https://github.com/EvgenyLipayMinsk) 
 ***
 ## About Me
-I am 23 years old, I work as a safety engineer. 
+I am 23 years old, I work as a safety engineer. I love programming!
 ***
 ## Skills
 * HTML
